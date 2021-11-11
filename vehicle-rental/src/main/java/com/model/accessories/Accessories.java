@@ -1,4 +1,4 @@
-package com.model;
+package com.model.accessories;
 
 
 public class Accessories {
